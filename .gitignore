@@ -1,0 +1,5 @@
+kernel8.img
+*.elf
+*.o
+.cproject
+.project
