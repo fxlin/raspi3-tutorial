@@ -3,3 +3,4 @@ kernel8.img
 *.o
 .cproject
 .project
+*.img
